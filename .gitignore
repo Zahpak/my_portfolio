@@ -1,4 +1,4 @@
-myportfolio/secrets.py
+myportfolio/secret_key.txt
 *.pyc
 *~
 /.vscode
